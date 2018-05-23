@@ -557,6 +557,14 @@
       }
     },
     {
+      "name": "Cucumber Tables",
+      "scope": "keyword.control.cucumber.table",
+      "settings": {
+        "foreground": "#c678dd",
+        "fontStyle": "normal"
+      }
+    },
+    {
       "name": "Keyword Control",
       "scope": "keyword.control",
       "settings": {
